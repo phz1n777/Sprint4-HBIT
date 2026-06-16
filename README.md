@@ -18,7 +18,7 @@
 
 ---
 
-## Vídeo de Automação
+## Vídeo de Automação e API
 
 🎬 [Assista ao vídeo aqui](https://youtu.be/9Bx0BrO22oI)
 🎬 [Assista ao vídeo aqui](https://www.youtube.com/watch?v=zf-UuIb-1zE)
